@@ -1,5 +1,5 @@
 {
-  "name": "swapp-server",
+  "name": "sc-server",
   "version": "0.0.0",
   "description": "",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/julioleitao/swapp-server.git"
+    "url": "https://github.com/WesleyMarques/sc-server.git"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/julioleitao/swapp-server/issues"
+    "url": "https://github.com/WesleyMarques/sc-server/issues"
   },
   "dependencies": {
     "body-parser": "^1.13.3",
